@@ -1,7 +1,7 @@
 ---
 name: User story
-about: Lists the acceptance criteria for user storys
-title: 'ACCEPTANCE CRITERIA: <USER STORY> '
+about: Explains user story, acceptance criteria and tasks to be carried out
+title: 'USER STORY: <USER STORY> '
 labels: ''
 assignees: ''
 
