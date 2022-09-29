@@ -1,5 +1,5 @@
 ---
-name: Acceptance criteria
+name: User story
 about: Lists the acceptance criteria for user storys
 title: 'ACCEPTANCE CRITERIA: <USER STORY> '
 labels: ''
